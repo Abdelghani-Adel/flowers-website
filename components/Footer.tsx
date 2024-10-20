@@ -13,9 +13,9 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>Congratulations</li>
               <li>Happy Anniversary</li>
-              <li>Mother's Day 2023</li>
-              <li>Father's Day 2022</li>
-              <li>Father's Day 2023</li>
+              <li>Mothers Day 2023</li>
+              <li>Fathers Day 2022</li>
+              <li>Fathers Day 2023</li>
             </ul>
 
             <ul className="space-y-2">
@@ -23,7 +23,7 @@ const Footer = () => {
               <li>Funeral</li>
               <li>Thank you</li>
               <li>Get Well Soon</li>
-              <li>Valentine's Day 2023</li>
+              <li>Valentines Day 2023</li>
             </ul>
 
             <ul className="space-y-2">
@@ -40,8 +40,8 @@ const Footer = () => {
           <ul className="space-y-2 text-white">
             <li>Roses</li>
             <li>Flowers</li>
-            <li>Mother's Day 2024</li>
-            <li>Valentine's Day 2024</li>
+            <li>Mothers Day 2024</li>
+            <li>Valentines Day 2024</li>
             <li>Lilies</li>
           </ul>
         </div>

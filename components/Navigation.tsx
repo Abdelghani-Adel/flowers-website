@@ -25,7 +25,7 @@ const Navigation = (props: IProps) => {
     <div
       role="presentation"
       onClick={onClose}
-      className={`${isOpen ? openClass : closeClass} ${defaultClass}`}
+      className={`${isOpen ? openClass : closeClass} ${defaultClass} shadow-md`}
     >
       <div className="flex md:hidden">
         <button onClick={onClose} className="text-main text-3xl ml-auto">
@@ -39,7 +39,7 @@ const Navigation = (props: IProps) => {
         <NavItem href="/lilies" label="lilies" />
         <NavItem href="/roses" label="roses" />
         <NavItem href="/tulips" label="tulips" />
-        <NavItem href="/all-products" label="all-products" />
+        {/* <NavItem href="/all-products" label="all-products" /> */}
       </ul>
     </div>
   );

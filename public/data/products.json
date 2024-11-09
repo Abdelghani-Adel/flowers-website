@@ -5,10 +5,10 @@
     "categories": ["Flowers", "Bouquets"],
     "tags": ["Fresh", "Colorful"],
     "description": "A vibrant bouquet to express happiness.",
-    "images": ["images/example.png"],
+    "images": ["images/xx.jpg"],
     "price": 6540,
     "colors": ["Pink", "White"],
-    "sizes": ["Medium"],
+    "sizes": [""],
     "occasions": ["Anniversary", "Celebration"]
   },
   {
@@ -50,11 +50,11 @@
   {
     "code": "005",
     "name": "Blossoming Joy",
-    "categories": ["Flowers"],
+    "categories": ["Flowers", "Lilies"],
     "tags": ["Joyful", "Festive"],
     "description": "A colorful mix of seasonal flowers.",
     "images": ["images/example.png"],
-    "price": 5400,
+    "price": 5000,
     "colors": ["Mixed"],
     "sizes": ["Medium"],
     "occasions": ["Birthday", "Celebration"]
@@ -62,7 +62,7 @@
   {
     "code": "006",
     "name": "Pure White Lilies",
-    "categories": ["Lilies"],
+    "categories": [],
     "tags": ["Elegant", "Sophisticated"],
     "description": "Elegant white lilies for a serene mood.",
     "images": ["images/example.png"],

@@ -1,1 +1,50 @@
-["birthday", "wedding"]
+[
+  {
+    "name": "Anniversary",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Celebration",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Birthday",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Housewarming",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Valentine's Day",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Easter",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Spring Festival",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Wedding",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Sympathy",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Graduation",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Romantic",
+    "image": "/images/example.png"
+  },
+  {
+    "name": "Surprise",
+    "image": "/images/example.png"
+  }
+]

@@ -50,8 +50,9 @@ const Categories = () => {
       </h2>
 
       <div className="flex flex-wrap">
-        {occasions.map((occ) => (
+        {occasions.map((occ, i) => (
           <Link
+            key={i}
             href={`/occasions?occasion=${occ.name}`}
             className="p-4 w-full sm:w-1/2 md:w-1/3 lg:w-1/4 hover:bg-gray-50 transition-all cursor-pointer rounded-3xl"
           >
